@@ -1,0 +1,17 @@
+{
+  "repo": "https://github.com/iulbllkaee/pla190369430ubl/tree/main",
+
+  "owner": {
+    "username": "iulbllkaee",
+    "email": "ubl.ae1903@gmail.com"
+  },
+
+  "target": {
+    "record-type": {
+       "name": "ublaepla", 
+       "value": "iulbllkaee.gitbook.io/pla190369430ubl"
+     }
+  },
+
+  "proxied": false
+}
